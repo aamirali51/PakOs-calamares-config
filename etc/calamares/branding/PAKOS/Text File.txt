@@ -29,37 +29,19 @@ Use gammaray
 
 /* ########## MAIN APPLICATION WINDOW ########## */
 
-#mainApp {
-}
-
 #mainText{
 	font : bold 16px;
 }
 
-#sidebarApp {
-
-}
-
-#logoApp {
-}
-
 #sidebarMenuApp {
 	padding: 3px;
-	background-color: #FFFFFF;
+	background-color: #353945;
 }
 
 QWidget {
 	font: 16px;
 }
 
-QTextEdit, QListView {
-}
-QDialogButtonBox {
-}
-QAbstractSpinBox {
-}
-QListWidget::item:alternate {
-}
 
 #view-button-back:hover {
 	color: #58B2D7;
@@ -71,29 +53,6 @@ QListWidget::item:alternate {
 	color: #58B2D7;
 }
 
-#debugButton {
-	font: bold 8px;
-	color: #FFFFFF;
-}
-#debugButton:hover {
-	color: #58B2D7;
-}
-
-#aboutButton:hover {
-	color: #58B2D7;
-}
-#donateButton:hover {
-	color: #58B2D7;
-}
-#supportButton:hover {
-	color: #58B2D7;
-}
-#knownIssuesButton:hover {
-	color: #58B2D7;
-}
-#releaseNotesButton:hover {
-	color: #58B2D7;
-}
 
 /* ########## TOOLTIP ########## */
 
@@ -150,7 +109,7 @@ QListView {
 
 QListView::item:alternate {
 	color: #58B2D7;
-	color: white;
+	color: black;
 }
 
 QListView::item:!alternate:selected:active {
@@ -216,15 +175,6 @@ QLineEdit#textBoxUserPassword, QLineEdit#textBoxRootPassword {
 }
 
 /* ##########PARTITION ########## */
-
-#partitionLabel {
-}
-
-#partitionLabelsView {
-}
-
-#CreatePartitionDialog {
-}
 
 #partResizerWidget {
 	font: 16px;
@@ -349,29 +299,6 @@ QTreeView::item:selected {
 	font: bold;
 }
 
-QTreeView::branch:has-siblings:!adjoins-item {
-}
-QTreeView::branch:has-siblings:adjoins-item {
-}
-QTreeView::branch:!has-children:!has-siblings:adjoins-item {
-}
-QTreeView::branch:has-children:!has-siblings:closed,
-QTreeView::branch:closed:has-children:has-siblings {
-}
-QTreeView::branch:open:has-children:!has-siblings,
-QTreeView::branch:open:has-children:has-siblings  {
-}
-
-/* ########## CHECK BOX ########## */
-
-QCheckBox {
-}
-QCheckBox::indicator:unchecked {
-}
-QCheckBox::indicator:checked {
-}
-QItemSelectionModel::Select {
-}
 
 /* ########## HEADER VIEW ########## */
 
@@ -390,9 +317,21 @@ QProgressBar::chunk {
 }
 
 #debugButton {
-	font: bold 8px;
-	color: #353945;
+	background-color: none;
+	font: 12px;
+	color: #edecf0;
+    	height: 32px;
+    	border: none;
 }
+
 #debugButton:hover {
-	color: #353945;
+	color: #ff7f7f;
 }
+
+#aboutButton {
+	background-color: none;
+	font: 12px;
+	color: #edecf0;
+    	height: 32px;
+    	border: none;
+} 
