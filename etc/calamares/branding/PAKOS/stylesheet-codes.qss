@@ -234,57 +234,110 @@ QLineEdit#textBoxUserPassword, QLineEdit#textBoxRootPassword {
 
  #labelWhatIsYourName {
 	font: 16px;
+	background: #58B2D7;
+	color: white;
+}
 }
  #textBoxFullName {
 	font: 16px;
+	background: #58B2D7;
+	color: white;
+
 }
  #labelFullName {
 	font: 16px;
+	background: #58B2D7;
+	color: white;
+
 }
  #labelFullNameError {
 	font: 16px;
+	background: #58B2D7;
+	color: white;
+
 }
  #username_label_2 {
 	font: 16px;
+	background: #58B2D7;
+	color: white;
+
 }
  #textBoxLoginName {
 	font: 16px;
+	background: #58B2D7;
+	color: white;
+
 }
  #labelUsername {
 	font: 16px;
+	background: #58B2D7;
+	color: white;
+
 }
  #labelUsernameError {
 	font: 16px;
+	background: #58B2D7;
+	color: white;
+
 }
  #hostname_label_2 {
 	font: 16px;
+	background: #58B2D7;
+	color: white;
+
 }
  #textBoxHostName {
 	font: 16px;
+	background: #58B2D7;
+	color: white;
+
 }
  #labelHostname {
 	font: 16px;
+	background: #58B2D7;
+	color: white;
+
 }
  #labelHostnameError {
 	font: 16px;
+	background: #58B2D7;
+	color: white;
+
 }
  #password_label_2 {
 	font: 16px;
+	background: #58B2D7;
+	color: white;
+
 }
  #textBoxUserPassword {
 	font: 16px;
+	background: #58B2D7;
+	color: white;
+
 }
  #textBoxUserVerifiedPassword {
 	font: 16px;
+	background: #58B2D7;
+	color: white;
+
 }
  #labelUserPassword {
 	font: 16px;
+	background: #58B2D7;
+	color: white;
+
 }
  #labelUserPasswordError {
 	font: 16px;
+	background: #58B2D7;
+	color: white;
+
 }
  #checkBoxRequireStrongPassword {
 	font: 16px;
+	
+
 }
  #checkBoxDoAutoLogin {
 	font: 16px;
