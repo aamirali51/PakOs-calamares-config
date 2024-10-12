@@ -121,13 +121,13 @@ navigation: widget
 # are visible as buttons there if the corresponding *show* keys
 # are set to "true" (they can also be overridden).
 strings:
-    productName:         Arch Linux
-    shortProductName:    Arch Linux
+    productName:         TTH-Linux
+    shortProductName:    TTH-Linux
     version:             2024-03
     #shortVersion:        
-    versionedName:       Arch Linux 
-    shortVersionedName:  Arch Linux
-    bootloaderEntryName: Arch Linux
+    versionedName:       TTH-Linux
+    shortVersionedName:  TTH-Linux
+    bootloaderEntryName: TTH-Linux
     #productUrl:          https://calamares.io/
     #supportUrl:          https://github.com/calamares/calamares/wiki
     #knownIssuesUrl:      https://github.com/calamares/calamares/issues
