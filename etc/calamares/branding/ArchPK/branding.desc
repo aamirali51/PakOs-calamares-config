@@ -8,7 +8,7 @@
 # Additional styling can be done using the stylesheet.qss
 # file, also in the branding directory.
 ---
-componentName:  TTH-LINUX
+componentName:  archlinuxgui
 
 
 ### WELCOME / OVERALL WORDING
@@ -121,13 +121,13 @@ navigation: widget
 # are visible as buttons there if the corresponding *show* keys
 # are set to "true" (they can also be overridden).
 strings:
-    productName:         TTH-Linux
-    shortProductName:    TTH-Linux
+    productName:         Arch Linux
+    shortProductName:    Arch Linux
     version:             2024-03
     #shortVersion:        
-    versionedName:       TTH-Linux
-    shortVersionedName:  TTH-Linux
-    bootloaderEntryName: TTH-Linux
+    versionedName:       Arch Linux 
+    shortVersionedName:  Arch Linux
+    bootloaderEntryName: Arch Linux
     #productUrl:          https://calamares.io/
     #supportUrl:          https://github.com/calamares/calamares/wiki
     #knownIssuesUrl:      https://github.com/calamares/calamares/issues
